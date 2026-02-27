@@ -1,0 +1,52 @@
+[
+  {
+        "name": "لقمةُ الحلال، نورٌ في القلبِ وصلاحٌ للعیال",
+    "nameIcon": "ic_event",
+    "artist": "الأستاذ: عبد الله بن بابا سعيد",
+    "artistIcon": "ic_person",
+    "place": "المسجد العتيق – بنورة",
+    "placeIcon": "ic_location",
+    "time": "الثلاثاء 13 رمضان 1447 هـ",
+    "timeIcon": "ic_time"
+  },
+  {
+    "name": " أثر الدعاء في استنزال التوفیق وتحقیق الطموح",
+    "nameIcon": "ic_event",
+    "artist": "الأستاذ: بالحاج بن محمد باحماني",
+    "artistIcon": "ic_person",
+    "place": "المسجد العتيق – بنورة",
+    "placeIcon": "ic_location",
+    "time": "الجمعة 09 رمضان 1447 هـ",
+    "timeIcon": "ic_time"
+  },
+  {
+    "name": " لمن نعطي زکاتنا؟",
+    "nameIcon": "ic_event",
+    "artist": "الأستاذ: عبد الله بن بابا سعيد",
+    "artistIcon": "ic_person",
+    "place": "المسجد العتيق – بنورة",
+    "placeIcon": "ic_location",
+    "time": "السبت 10 رمضان 1447 هـ",
+    "timeIcon": "ic_time"
+  },
+  {
+    "name": " الاستهتارُ بالدین، طریقُ الهالکین",
+    "nameIcon": "ic_event",
+    "artist": "الأستاذ: يوسف بن براهيم دودو",
+    "artistIcon": "ic_person",
+    "place": "المسجد العتيق – بنورة",
+    "placeIcon": "ic_location",
+    "time": "الأحد 11 رمضان 1447 هـ",
+    "timeIcon": "ic_time"
+  },
+  {
+    "name": " درع العفة في مواجهة الافتراس الرقمي",
+    "nameIcon": "ic_event",
+    "artist": "الأستاذ: عمر بن باحمد أبي سماعيل",
+    "artistIcon": "ic_person",
+    "place": "المسجد العتيق – بنورة",
+    "placeIcon": "ic_location",
+    "time": "الإثنين 12 رمضان 1447 هـ",
+    "timeIcon": "ic_time"
+  }
+  ]
