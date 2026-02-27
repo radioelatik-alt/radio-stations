@@ -1,0 +1,32 @@
+[
+  {
+    "id": "http1",
+    "name": "مجلس القرآن",
+    "streamUrl": "http://uk21freenew.listen2myradio.com:11205",
+    "image": "quran"
+  },
+  {
+    "id": "http2",
+    "name": "المسجد العتيق",
+    "streamUrl": "http://uk21freenew.listen2myradio.com:11205",
+    "image": "radio"
+  },
+  {
+    "id": "http3",
+    "name": "مسجد النور",
+    "streamUrl": "http://virmach4.hajjam.net:8000/main",
+    "image": "ennour"
+  },
+  {
+    "id": "http4",
+    "name": "مسجد ختالة",
+    "streamUrl": "http://uk22freenew.listen2myradio.com:32848/",
+    "image": "radio"
+  },
+  {
+    "id": "http5",
+    "name": "النغم الأصيل",
+    "streamUrl": "http://uk21freenew.listen2myradio.com:10946/stream",
+    "image": "awnis"
+  }
+]
