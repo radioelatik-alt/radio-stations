@@ -28,5 +28,29 @@
     "name": "النغم الأصيل",
     "streamUrl": "http://uk21freenew.listen2myradio.com:10946/stream",
     "image": "awnis"
+  },
+  {
+    "id": "http6",
+    "name": "أونيس 1",
+    "streamUrl": "http://uk21freenew.listen2myradio.com:10946/stream",
+    "image": "awnis"
+  },
+  {
+    "id": "http7",
+    "name": "أونيس 2",
+    "streamUrl": "http://uk21freenew.listen2myradio.com:10946/stream",
+    "image": "awnis"
+  },
+  {
+    "id": "http8",
+    "name": "أونيس 3",
+    "streamUrl": "http://uk21freenew.listen2myradio.com:10946/stream",
+    "image": "awnis"
+  },
+  {
+    "id": "http9",
+    "name": "أونيس 4",
+    "streamUrl": "http://uk21freenew.listen2myradio.com:10946/stream",
+    "image": "awnis"
   }
 ]
