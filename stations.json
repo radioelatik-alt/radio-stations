@@ -31,19 +31,19 @@
   },
   {
     "id": "http6",
-    "name": "أونيس 1",
-    "streamUrl": "http://uk21freenew.listen2myradio.com:10946/stream",
+    "name": "تـــاضفي",
+    "streamUrl": "http://srv469770.hstgr.cloud:8080/Tadfi/",
     "image": "awnis_logo"
   },
   {
     "id": "http7",
-    "name": "أونيس 2",
-    "streamUrl": "http://uk21freenew.listen2myradio.com:10946/stream",
+    "name": "مسجد الوادي",
+    "streamUrl": "http://78.129.237.51:38168/;stream.mp3",
     "image": "awnis_logo"
   },
   {
     "id": "http8",
-    "name": "أونيس 3",
+    "name": "المسجد العتيق تغردايت",
     "streamUrl": "http://uk21freenew.listen2myradio.com:10946/stream",
     "image": "awnis_logo"
   },
