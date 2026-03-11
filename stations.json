@@ -19,38 +19,38 @@
   },
   {
     "id": "http4",
-    "name": "مسجد ختالة",
-    "streamUrl": "http://a13.asurahosting.com:7280",
-    "image": "radio"
+    "name": "المسجد العتيق تاجنينت",
+    "streamUrl": "http://187.77.175.120:9000/;stream.mp3",
+    "image": "tadjnint"
   },
   {
     "id": "http5",
-    "name": "النغم الأصيل",
-    "streamUrl": "http://uk21freenew.listen2myradio.com:10946/stream",
-    "image": "awnis_logo"
-  },
-  {
-    "id": "http6",
     "name": "تـــاضفي",
     "streamUrl": "http://srv469770.hstgr.cloud:8080/Tadfi/",
     "image": "tadhfi"
   },
   {
-    "id": "http7",
+    "id": "http6",
     "name": "مسجد الوادي",
     "streamUrl": "http://78.129.237.51:38168/;stream.mp3",
     "image": "elwadi"
   },
   {
-    "id": "http8",
+    "id": "http7",
     "name": "المسجد العتيق تغردايت",
     "streamUrl": "https://radio.tamejida.org/tagherdayt",
     "image": "tagherdayt"
   },
   {
+    "id": "http8",
+    "name": "مسجد أبي سالم",
+    "streamUrl": "http://187.77.175.120:9000/;stream.mp3",
+    "image": "abisalem"
+  },
+  {
     "id": "http9",
-    "name": "أونيس 4",
+    "name": "النغم الأصيل",
     "streamUrl": "http://uk21freenew.listen2myradio.com:10946/stream",
-    "image": "awnis"
+    "image": "awnis_logo"
   }
 ]
