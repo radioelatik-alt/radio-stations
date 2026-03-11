@@ -1,22 +1,22 @@
 [
   {
-    "name": "ثلاثیة الطهارة البدن، والثوب، والمکان",
+    "name": "الإباضية في ميدان الحق",
+    "nameIcon": "ic_event",
+    "artist": "الأستاذ: يوسف بن براهيم دودو",
+    "artistIcon": "ic_person",
+    "place": "المسجد العتيق – بنورة",
+    "placeIcon": "ic_location",
+    "time": "الأربعاء 21 رمضان 1447 هـ",
+    "timeIcon": "ic_time"
+  },
+  {
+    "name": "الأمومة: فطرة سوية ورسالة أبدية",
     "nameIcon": "ic_event",
     "artist": "الأستاذ: عبد الله بن بابا سعيد",
     "artistIcon": "ic_person",
     "place": "المسجد العتيق – بنورة",
     "placeIcon": "ic_location",
-    "time": "الجمعة 16 رمضان 1447 هـ",
-    "timeIcon": "ic_time"
-  },
-  {
-    "name": "کیف تخشع في صلاتك؟",
-    "nameIcon": "ic_event",
-    "artist": "الأستاذ: محمد بن باحمد دودو",
-    "artistIcon": "ic_person",
-    "place": "المسجد العتيق – بنورة",
-    "placeIcon": "ic_location",
-    "time": "السبت 17 رمضان 1447 هـ",
+    "time": "الخميس 22 رمضان 1447 هـ",
     "timeIcon": "ic_time"
   },
   {
@@ -50,6 +50,7 @@
     "timeIcon": "ic_time"
   }
   ]
+
 
 
 
