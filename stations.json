@@ -44,7 +44,7 @@
   {
     "id": "http8",
     "name": "مسجد أبي سالم",
-    "streamUrl": "http://187.77.175.120:9000/;stream.mp3",
+    "streamUrl": "http://187.77.175.120:8000/;stream.mp3",
     "image": "abisalem"
   },
   {
