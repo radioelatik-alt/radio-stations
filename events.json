@@ -1,52 +1,82 @@
 [
   {
-    "name": "الإباضية في ميدان الحق",
+    "name": "مجلـــس التلاوة",
     "nameIcon": "ic_event",
-    "artist": "الأستاذ: بالحاج بن محمد باحماني",
+    "artist": "------------",
     "artistIcon": "ic_person",
     "place": "المسجد العتيق – بنورة",
     "placeIcon": "ic_location",
-    "time": "الأربعاء 21 رمضان 1447 هـ",
+    "time": "كل يوم سبت",
     "timeIcon": "ic_time"
   },
   {
-    "name": "الأمومة: فطرة سوية ورسالة أبدية",
+    "name": "سلسلة حلقــات في الأخلاق",
     "nameIcon": "ic_event",
-    "artist": "الأستاذ: عبد الله بن بابا سعيد",
+    "artist": "الأستاذ: بنوح بن محمد دودو",
     "artistIcon": "ic_person",
     "place": "المسجد العتيق – بنورة",
     "placeIcon": "ic_location",
-    "time": "الخميس 22 رمضان 1447 هـ",
+    "time": "كل يوم أحد",
     "timeIcon": "ic_time"
   },
   {
-    "name": " المخدرات.. طعنة في قلب المجتمع",
+    "name": " سلسلة حلقات في التنشئة الإيمانية",
     "nameIcon": "ic_event",
-    "artist": "الأستاذ: عمر بن باحمد أبي سماعيل",
+    "artist": "الأستاذ: يوسف بن براهيم دودو",
     "artistIcon": "ic_person",
     "place": "المسجد العتيق – بنورة",
     "placeIcon": "ic_location",
-    "time": "الجمعة 23 رمضان 1447 هـ",
+    "time": "كل يوم إثنين",
     "timeIcon": "ic_time"
   },
   {
-    "name": " بین التدبیر والتقدیر امرأة تصنع التغییر",
-    "nameIcon": "ic_event",
-    "artist": "الأستاذ: يحي بن عمر دودو",
-    "artistIcon": "ic_person",
-    "place": "المسجد العتيق – بنورة",
-    "placeIcon": "ic_location",
-    "time": "السبت 24 رمضان 1447 هـ",
-    "timeIcon": "ic_time"
-  },
-  {
-    "name": "نظامُ الحلقةِ بین النعمةِ المسؤولیة",
+    "name": " السيرة النبوية دروس وعبر",
     "nameIcon": "ic_event",
     "artist": "الأستاذ: محمد بن باحمد دودو",
     "artistIcon": "ic_person",
     "place": "المسجد العتيق – بنورة",
     "placeIcon": "ic_location",
-    "time": "الأحد 25 رمضان 1447 هـ",
+    "time": "كل يوم ثلاثاء",
+    "timeIcon": "ic_time"
+  },
+  {
+    "name": "تفسير السور القصار",
+    "nameIcon": "ic_event",
+    "artist": "الأستاذ: بالحاج بن محمد باحماني",
+    "artistIcon": "ic_person",
+    "place": "المسجد العتيق – بنورة",
+    "placeIcon": "ic_location",
+    "time": "كل يوم إربعاء",
+    "timeIcon": "ic_time"
+    },
+  {
+    "name": "مجلس التلاوة",
+    "nameIcon": "ic_event",
+    "artist": "-------------",
+    "artistIcon": "ic_person",
+    "place": "المسجد العتيق – بنورة",
+    "placeIcon": "ic_location",
+    "time": "كل يوم خميس",
+    "timeIcon": "ic_time"
+  },
+  {
+    "name": "سلسلة مواضيع إجتماعية",
+    "nameIcon": "ic_event",
+    "artist": "الأستاذ: عبد الله بن بابا سعيد",
+    "artistIcon": "ic_person",
+    "place": "المسجد العتيق – بنورة",
+    "placeIcon": "ic_location",
+    "time": "كل يوم جمعة",
+    "timeIcon": "ic_time"
+  },
+  {
+    "name": "شرح منظومة غاية المراد في نظم الاعتقاد",
+    "nameIcon": "ic_event",
+    "artist": "الأستاذ: بالحاج بن محمد باحماني",
+    "artistIcon": "ic_person",
+    "place": "مسجد ختالة – بنورة",
+    "placeIcon": "ic_location",
+    "time": "كل يوم جمعة",
     "timeIcon": "ic_time"
   }
   ]
