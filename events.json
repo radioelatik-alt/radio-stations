@@ -1,4 +1,6 @@
-[
+{
+  "showEvents": true,
+  "events":[
   {
     "name": "مجلـــس التلاوة",
     "nameIcon": "ic_event",
