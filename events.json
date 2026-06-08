@@ -1,91 +1,85 @@
 {
   "showEvents": false,
-  "events":[
-  {
-    "name": "مجلـــس التلاوة",
-    "nameIcon": "ic_event",
-    "artist": "------------",
-    "artistIcon": "ic_person",
-    "place": "المسجد العتيق – بنورة",
-    "placeIcon": "ic_location",
-    "time": "كل يوم سبت",
-    "timeIcon": "ic_time"
-  },
-  {
-    "name": "سلسلة حلقــات في الأخلاق",
-    "nameIcon": "ic_event",
-    "artist": "الأستاذ: بنوح بن محمد دودو",
-    "artistIcon": "ic_person",
-    "place": "المسجد العتيق – بنورة",
-    "placeIcon": "ic_location",
-    "time": "كل يوم أحد",
-    "timeIcon": "ic_time"
-  },
-  {
-    "name": " سلسلة حلقات في التنشئة الإيمانية",
-    "nameIcon": "ic_event",
-    "artist": "الأستاذ: يوسف بن براهيم دودو",
-    "artistIcon": "ic_person",
-    "place": "المسجد العتيق – بنورة",
-    "placeIcon": "ic_location",
-    "time": "كل يوم إثنين",
-    "timeIcon": "ic_time"
-  },
-  {
-    "name": " السيرة النبوية دروس وعبر",
-    "nameIcon": "ic_event",
-    "artist": "الأستاذ: محمد بن باحمد دودو",
-    "artistIcon": "ic_person",
-    "place": "المسجد العتيق – بنورة",
-    "placeIcon": "ic_location",
-    "time": "كل يوم ثلاثاء",
-    "timeIcon": "ic_time"
-  },
-  {
-    "name": "تفسير السور القصار",
-    "nameIcon": "ic_event",
-    "artist": "الأستاذ: بالحاج بن محمد باحماني",
-    "artistIcon": "ic_person",
-    "place": "المسجد العتيق – بنورة",
-    "placeIcon": "ic_location",
-    "time": "كل يوم إربعاء",
-    "timeIcon": "ic_time"
+  "events": [
+    {
+      "name": "مجلـــس التلاوة",
+      "nameIcon": "ic_event",
+      "artist": "------------",
+      "artistIcon": "ic_person",
+      "place": "المسجد العتيق – بنورة",
+      "placeIcon": "ic_location",
+      "time": "كل يوم سبت",
+      "timeIcon": "ic_time"
     },
-  {
-    "name": "مجلس التلاوة",
-    "nameIcon": "ic_event",
-    "artist": "-------------",
-    "artistIcon": "ic_person",
-    "place": "المسجد العتيق – بنورة",
-    "placeIcon": "ic_location",
-    "time": "كل يوم خميس",
-    "timeIcon": "ic_time"
-  },
-  {
-    "name": "سلسلة مواضيع إجتماعية",
-    "nameIcon": "ic_event",
-    "artist": "الأستاذ: عبد الله بن بابا سعيد",
-    "artistIcon": "ic_person",
-    "place": "المسجد العتيق – بنورة",
-    "placeIcon": "ic_location",
-    "time": "كل يوم جمعة",
-    "timeIcon": "ic_time"
-  },
-  {
-    "name": "شرح منظومة غاية المراد في نظم الاعتقاد",
-    "nameIcon": "ic_event",
-    "artist": "الأستاذ: بالحاج بن محمد باحماني",
-    "artistIcon": "ic_person",
-    "place": "مسجد ختالة – بنورة",
-    "placeIcon": "ic_location",
-    "time": "كل يوم جمعة",
-    "timeIcon": "ic_time"
-  }
+    {
+      "name": "سلسلة حلقــات في الأخلاق",
+      "nameIcon": "ic_event",
+      "artist": "الأستاذ: بنوح بن محمد دودو",
+      "artistIcon": "ic_person",
+      "place": "المسجد العتيق – بنورة",
+      "placeIcon": "ic_location",
+      "time": "كل يوم أحد",
+      "timeIcon": "ic_time"
+    },
+    {
+      "name": " سلسلة حلقات في التنشئة الإيمانية",
+      "nameIcon": "ic_event",
+      "artist": "الأستاذ: يوسف بن براهيم دودو",
+      "artistIcon": "ic_person",
+      "place": "المسجد العتيق – بنورة",
+      "placeIcon": "ic_location",
+      "time": "كل يوم إثنين",
+      "timeIcon": "ic_time"
+    },
+    {
+      "name": " السيرة النبوية دروس وعبر",
+      "nameIcon": "ic_event",
+      "artist": "الأستاذ: محمد بن باحمد دودو",
+      "artistIcon": "ic_person",
+      "place": "المسجد العتيق – بنورة",
+      "placeIcon": "ic_location",
+      "time": "كل يوم ثلاثاء",
+      "timeIcon": "ic_time"
+    },
+    {
+      "name": "تفسير السور القصار",
+      "nameIcon": "ic_event",
+      "artist": "الأستاذ: بالحاج بن محمد باحماني",
+      "artistIcon": "ic_person",
+      "place": "المسجد العتيق – بنورة",
+      "placeIcon": "ic_location",
+      "time": "كل يوم إربعاء",
+      "timeIcon": "ic_time"
+    },
+    {
+      "name": "مجلس التلاوة",
+      "nameIcon": "ic_event",
+      "artist": "-------------",
+      "artistIcon": "ic_person",
+      "place": "المسجد العتيق – بنورة",
+      "placeIcon": "ic_location",
+      "time": "كل يوم خميس",
+      "timeIcon": "ic_time"
+    },
+    {
+      "name": "سلسلة مواضيع إجتماعية",
+      "nameIcon": "ic_event",
+      "artist": "الأستاذ: عبد الله بن بابا سعيد",
+      "artistIcon": "ic_person",
+      "place": "المسجد العتيق – بنورة",
+      "placeIcon": "ic_location",
+      "time": "كل يوم جمعة",
+      "timeIcon": "ic_time"
+    },
+    {
+      "name": "شرح منظومة غاية المراد في نظم الاعتقاد",
+      "nameIcon": "ic_event",
+      "artist": "الأستاذ: بالحاج بن محمد باحماني",
+      "artistIcon": "ic_person",
+      "place": "مسجد ختالة – بنورة",
+      "placeIcon": "ic_location",
+      "time": "كل يوم جمعة",
+      "timeIcon": "ic_time"
+    }
   ]
-
-
-
-
-
-
-
+}
